@@ -1,4 +1,4 @@
-# BleezWallet-BTCFlashSender 
+# Bitcoin Flash Sender 
 BleezWallet is a secure wallet, and the 1st wallet to develop and make public the bitcoin flash options in its project.
 Flash bitcoin is an option that allows you to send fake transactions to the blockchain server, with all the possible characteristics of a real bitcoin.
 # FREE TRIAL 7 days LIMITED OFFER
